@@ -1,1 +1,2 @@
 This is My File to be checked into Git staging.
+I am making a difference.
